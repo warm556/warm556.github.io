@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "죽순님의 블로그"
-title_separator          : "이뭐고"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "죽순"
 description              : "죽순's Blog"
